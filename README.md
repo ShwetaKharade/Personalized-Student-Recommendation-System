@@ -41,7 +41,7 @@ Required Python libraries (listed in requirements.txt)
 
 Clone the repository:
 
-git clone https://github.com/your-username/personalized-student-recommendation.git
+git clone https://github.com/ShwetaKharade/personalized-student-recommendation.git
 
 Navigate to the project directory:
 
