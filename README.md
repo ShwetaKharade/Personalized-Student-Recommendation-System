@@ -13,23 +13,21 @@ Usage
 
 Dataset
 
-Model
-
-Overview
-
+**Overview
+**
 The Personalized Student Recommendation System is aimed at helping educators and administrators identify actionable recommendations for students. By analyzing student profiles, performance metrics, and other relevant data, the system offers tailored suggestions to enhance academic success.
 
-Features
+**Features**
 
-Data Preprocessing: Cleans and prepares raw data for analysis.
+1.Data Preprocessing: Cleans and prepares raw data for analysis.
 
-Feature Engineering: Extracts meaningful insights from the dataset.
+2.Feature Engineering: Extracts meaningful insights from the dataset.
 
-Machine Learning Models: Implements predictive models for personalized recommendations.
+3.Machine Learning Models: Implements predictive models for personalized recommendations.
 
-Visualization: Includes charts and graphs for better interpretability.
+4.Visualization: Includes charts and graphs for better interpretability.
 
-Installation
+**Installation**
 
 Prerequisites
 
@@ -39,7 +37,7 @@ Jupyter Notebook
 
 Required Python libraries (listed in requirements.txt)
 
-Steps
+**Steps**
 
 Clone the repository:
 
@@ -53,7 +51,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Usage
+**Usage**
 
 Launch the Jupyter Notebook:
 
@@ -69,42 +67,7 @@ Train and test machine learning models.
 
 Generate personalized recommendations.
 
-Dataset
-
-Ensure you have a dataset in .csv format.
-
-Replace the placeholder dataset file path in the notebook with your actual dataset.
-
-Example Dataset Columns:
-
-Student ID
-
-Grades
-
-Attendance
-
-Subject Preferences
-
-Extra-curricular Activities
-
-Model
-
-The recommendation system employs:
-
-Supervised learning algorithms (e.g., Decision Trees, Random Forests).
-
-Hyperparameter tuning for optimal performance.
-
-Evaluation metrics include:
-
-Accuracy
-
-Precision
-
-Recall
-
-Contributing
-
+**Contributing**
 Contributions are welcome! If you would like to improve this project:
 
 Fork the repository.
